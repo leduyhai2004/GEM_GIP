@@ -1,0 +1,3 @@
+Dòng 1: Xin chào Java
+Dòng 2: Đây là BufferedWriter
+Dòng 3: Ghi thành công! update
